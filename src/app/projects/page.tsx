@@ -43,7 +43,7 @@ const Projects = () => {
                 height={300}
                 alt="gallery"
                 className="w-full object-cover h-full object-center block hover:border-green-300 hover:border-2"
-                src="/images/Shareable.png"
+                src="/images/Shareable.PNG"
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
@@ -52,7 +52,7 @@ const Projects = () => {
                 height={300}
                 alt="gallery"
                 className="w-full object-cover h-full object-center block hover:border-green-300 hover:border-2"
-                src="/images/static.png"
+                src="/images/static.PNG"
               />
             </div>
             <div className="md:p-2 p-1 w-full">
@@ -61,7 +61,7 @@ const Projects = () => {
                 height={300}
                 alt="gallery"
                 className="w-full h-full object-cover object-center block hover:border-green-300 hover:border-2"
-                src="/images/word.png"
+                src="/images/word.PNG"
               />
             </div>
           </div>
@@ -72,7 +72,7 @@ const Projects = () => {
                 height={300}
                 alt="gallery"
                 className="w-full h-full object-cover object-center block hover:border-green-300 hover:border-2"
-                src="/images/tic.png"
+                src="/images/tic.PNG"
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
@@ -81,7 +81,7 @@ const Projects = () => {
                 height={300}
                 alt="gallery"
                 className="w-full object-cover h-full object-center block hover:border-green-300 hover:border-2"
-                src="/images/kali.png"
+                src="/images/kali.PNG"
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
@@ -90,7 +90,7 @@ const Projects = () => {
                 height={300}
                 alt="gallery"
                 className="w-full object-cover h-full object-center block hover:border-green-300 hover:border-2"
-                src="/images/stop.png"
+                src="/images/stop.PNG"
               />
             </div>
           </div>
